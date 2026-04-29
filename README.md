@@ -158,8 +158,8 @@ features. The ablation result is the story.
      One paragraph is plenty. The point is to give a reviewer enough
      context to know who built this and why. -->
 
-I'm **[YOUR NAME]**, a recent **[YOUR DEGREE]** graduate from
-**[YOUR UNIVERSITY]** ([year]). This is my first end-to-end machine-learning
+I'm Himaj Reddy, a recent Electronics and communication Engineering graduate from
+Sreenidhi Institute of Science and Technology. This is a end-to-end machine-learning
 project. The choice of problem isn't accidental — battery prognostics sits
 at the boundary of the hardware I trained on as an electrical engineer
 and the data-driven methods I want to study formally in a Master's
@@ -168,7 +168,7 @@ intuition genuinely helped (designing the Group C features, choosing the
 held-out cell) and where it didn't translate at all (why naive random
 splits are dangerous, how to design an honest comparison between models).
 
-You can reach me at [your email] or [your LinkedIn].
+You can reach me at himaj.reddyp@gmail.com.
 
 ## References
 
