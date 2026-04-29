@@ -67,23 +67,41 @@ SOH is defined as the ratio of current battery capacity to original battery capa
 ## Pipeline Architecture
 
 Raw Battery Data
+
 ↓
+
 Data Cleaning
+
 ↓
+
 Cycle Extraction
+
 ↓
+
 Feature Engineering
+
 ↓
+
 Feature Grouping
+
 ↓
+
 Train/Test Split
+
 ↓
+
 Model Training
+
 ↓
+
 Performance Evaluation
+
 ↓
+
 Feature Importance Analysis
+
 ↓
+
 Prediction Visualization
 
 ---
@@ -206,6 +224,7 @@ models/
 results/
 
 src/
+
 ├── data.py
 
 ├── features.py
