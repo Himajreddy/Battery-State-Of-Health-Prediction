@@ -2,27 +2,25 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Don't commit the dataset or generated outputs — they regenerate from
-# scripts and would just bloat the repo.
 data/raw/*.mat
 data/processed/*.csv
+data/processed/*.parquet
 results/*.png
 results/*.json
 results/*.csv
 results/*.md
 models/*.joblib
 
-# Keep the folder structure even when empty
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!results/.gitkeep
-!models/.gitkeep
 
-.env
-.DS_Store
-.vscode/
-.idea/
+data/processed/*
+!data/processed/.gitkeep
+
+data/interim/*
+data/external/*
 
 mlruns/
-data/interim/
-data/external/
+
+*.parquet
+.env
+
+!data/raw/.gitkeep
