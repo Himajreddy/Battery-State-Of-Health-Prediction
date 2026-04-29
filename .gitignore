@@ -24,3 +24,5 @@ mlruns/
 .env
 
 !data/raw/.gitkeep
+models_artifacts/
+reports/
