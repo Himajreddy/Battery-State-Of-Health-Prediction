@@ -95,9 +95,6 @@ battery-soh-prediction/
 └── requirements.txt
 ```
 
-About 600 lines of Python total. Deliberately small so I can defend
-every line.
-
 ## Reproducing the result
 
 ```bash
