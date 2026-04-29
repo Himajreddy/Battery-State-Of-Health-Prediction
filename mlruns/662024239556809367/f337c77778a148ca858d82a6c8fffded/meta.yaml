@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/polih/Downloads/battery-ai/battery-ai/mlruns/662024239556809367/f337c77778a148ca858d82a6c8fffded/artifacts
+end_time: 1777484536433
+entry_point_name: ''
+experiment_id: '662024239556809367'
+lifecycle_stage: active
+run_id: f337c77778a148ca858d82a6c8fffded
+run_name: xgboost-no-git
+run_uuid: f337c77778a148ca858d82a6c8fffded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777484536329
+status: 4
+tags: []
+user_id: polih

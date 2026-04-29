@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/polih/Downloads/battery-ai/battery-ai/mlruns/662024239556809367/4504870da0a94bc39b7a4c9804cbb3d3/artifacts
+end_time: 1777484536300
+entry_point_name: ''
+experiment_id: '662024239556809367'
+lifecycle_stage: active
+run_id: 4504870da0a94bc39b7a4c9804cbb3d3
+run_name: random_forest-no-git
+run_uuid: 4504870da0a94bc39b7a4c9804cbb3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777484534893
+status: 3
+tags: []
+user_id: polih
